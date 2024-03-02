@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importance of Semantic</title>
+</head>
+<body>
+    <h1>Importance of Semantic HTML for SEO and accesibility</h1>
+    
+    <article>
+        <h2>Importance of Semantic HTML</h2>
+        <p>The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages.
+            The pages made with semantic elements are much easier to read.
+            It has greater accessibility. It offers a better user experience.</p>
+    </article>
+
+    <article>
+        <h3>Importance of semantic HTML for seo</h3>
+        <p>Semantic HTML provides explicit meaning to your content structure, making it easier for search engines to understand & index.<br>
+            These elements help enhance navigation & interaction for assistive technologies such as screen readers. <br> It creates a more inclusive site and, opens up your content to a wider audience & increases potential traffic.
+            Semantic HTML gives context to links and other elements of a page. <br> Search engines such as Google use this context in their ranking algorithms to determine the relevance of your site to a given search query.
+        </p>
+    </article>
+
+    <article>
+        <h4>Importance of semantic HTML for accesibility</h4>
+        <p>
+            When we write semantically correct HTML, we’re letting the browser know what type of content it’s dealing with and how that content relates to other content. <br> By doing this, assistive technology is more easily able to do its job because it has a structure that it can work with.
+            Semantic HTML is a system of code that helps search engines fully understand a website's content. <br> It also makes the site more readable for humans and uses meaningful tags rather than just tags that define the structure of a page. 
+            Search engine algorithms are designed to scan websites and understand their content. <br> Semantic HTML tags help the algorithms to more accurately interpret the meaning of the content, which can improve the website's ranking in search engine results. These tags are easier for humans to read.
+        </p>
+    </article>
+</body>
+</html>
