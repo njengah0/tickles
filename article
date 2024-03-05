@@ -26,7 +26,7 @@
     <article>
         <h4>Importance of semantic HTML for accesibility</h4>
         <p>
-            When we write semantically correct HTML, we’re letting the browser know what type of content it’s dealing with and how that content relates to other content. <br> By doing this, assistive technology is more easily able to do its job because it has a structure that it can work with.
+            When we write semantically correct HTML, we are letting the browser know what type of content it is dealing with and how that content relates to other content. <br> By doing this, assistive technology is more easily able to do its job because it has a structure that it can work with.
             Semantic HTML is a system of code that helps search engines fully understand a website's content. <br> It also makes the site more readable for humans and uses meaningful tags rather than just tags that define the structure of a page. 
             Search engine algorithms are designed to scan websites and understand their content. <br> Semantic HTML tags help the algorithms to more accurately interpret the meaning of the content, which can improve the website's ranking in search engine results. These tags are easier for humans to read.
         </p>
