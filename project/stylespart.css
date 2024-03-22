@@ -1,0 +1,48 @@
+ul{
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(209, 132, 38);
+}
+li{
+    float: left;
+}
+li a {
+    display: block;
+    color: solid black;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: cornsilk;
+}
+#myHeader {
+    color: brown;
+    background-color: rgb(223, 161, 86);
+    padding: 30px;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+.container{
+    display: flex;
+}
+aside {
+    flex: 3;
+    border-left: 2px solid brown;
+    background-color: rgb(227, 227, 238);
+}
+form{
+    margin: auto;
+    max-width: 500px;
+    padding: 50px;
+    max-height: 500px;
+}
+p{
+    color: chocolate;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
